@@ -1,1 +1,2 @@
-iliad_1.txt
+#Ignore i/o practice files
+iliad_*.txt
